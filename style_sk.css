@@ -8,3 +8,9 @@ h2{
     text-align: center;
     text-decoration: wavy;
 }
+h3{
+    background-color: bisque;
+    color: aqua;
+    text-align: center;
+    text-decoration: underline;
+}
