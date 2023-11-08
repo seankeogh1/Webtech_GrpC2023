@@ -2,3 +2,9 @@ h1{
     background-color: aqua;
     color: brown;
 }
+h2{
+    background-color: aquamarine;
+    color: azure;
+    text-align: center;
+    text-decoration: wavy;
+}
